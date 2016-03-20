@@ -12,5 +12,5 @@ function relimit(oldLimit, newLimit) {
             }
         }
     }
-    console.log(successCount + "/" + tooSmall.length + " elements now accept " + newLimit + " digits");
+    console.log(successCount + "/" + tooSmall.length + " elements now accept " + newLimit + " characters");
 }
