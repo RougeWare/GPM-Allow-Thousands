@@ -1,2 +1,2 @@
-# GPM-Allow-Thousands
-When run, makes all fields in Google Play Music that accept numbers up to 999 now accept up to 9999.
+# Input Relimiter
+Allows you to change any field that accepts a maximum of `n` characters, so that they now accept `m` characters.
